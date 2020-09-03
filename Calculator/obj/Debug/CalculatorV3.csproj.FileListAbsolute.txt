@@ -1,0 +1,16 @@
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\App.g.cs
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\bin\Debug\NCalc.dll
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3.csproj.GenerateResource.cache
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3.csproj.CoreCompileInputs.cache
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3.csproj.CopyComplete
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorGui.g.cs
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorGui.baml
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\bin\Debug\CalculatorV3.exe.config
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\bin\Debug\CalculatorV3.exe
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\bin\Debug\CalculatorV3.pdb
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3_MarkupCompile.cache
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3_MarkupCompile.lref
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3.g.resources
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3.Properties.Resources.resources
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3.exe
+C:\Users\Callum\source\repos\CalculatorV3\CalculatorV2\obj\Debug\CalculatorV3.pdb

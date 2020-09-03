@@ -1,0 +1,15 @@
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\Callum\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
